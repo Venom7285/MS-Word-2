@@ -1,0 +1,50 @@
+.Title_bar {
+    background-color: aqua;
+    border-radius: 10px;
+}
+
+.p1 {
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+#Document_name {
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+#bold_button {
+    font-weight: bold;
+}
+
+#italics_button {
+    font-style: italic;
+    font-weight: bold;
+}
+
+#write_area {
+    height: 100%;
+    width: 100%;
+    align-items: center;
+}
+
+#document_name_label {
+    margin-left: 10px;
+}
+
+#button_savename {
+    background-color: chartreuse;
+}
+
+#delete_all_button {
+    background-color: red;
+    border-radius: 10px;
+}
+
+#button_save {
+    background-color: chartreuse;
+}
+
+#button_getfile {
+    background-color: chartreuse;
+}
